@@ -1,0 +1,63 @@
+.cabs{
+  text-indent: -100px;
+}
+.navbar{
+  padding-top: 20px;
+  background-color: #117EEA;
+  border-radius: 3px;
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+}
+.menu{
+
+}
+.senhaPessoa{
+  margin-top: 3px;
+  margin-bottom: 5px;
+}
+.dataPessoa{
+  margin-bottom: 10px;
+}
+.generoP{
+  padding-left: 20px;
+  margin-bottom: 10px;
+}
+.conteudo{
+  padding: 30px;
+  border-radius: 3px;
+  border-style: groove;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+}.conter2{
+  padding: 60px;
+}
+h3{
+  margin-bottom: 20px;
+}
+.ruaEndereco{
+
+}
+.avEndereco{
+
+}
+.numCasa{
+
+}
+#complementotxt{
+  padding-top: 8px;
+
+}
+.txtcompl{
+  padding-top: 6px;
+}
+.txtRua{
+  padding-top: 8px;
+}
+.txtBairro{
+  padding-top: 8px;
+
+}
+.txtCidade{
+  padding-top: 8px;
+}
+.cab{
+  background-color: #117EEA;
+}
